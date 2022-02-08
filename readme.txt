@@ -1,4 +1,4 @@
-Created with an ESP32 microcontroller, an Infineon i2s Microphone and the Edge Impulse machine learning library for microcontrollers. 
+Created with an ESP32 microcontroller, an Infineon i2s microphone and the Edge Impulse machine learning library for microcontrollers. 
 
 
 The red LED lets the user know that the program is waiting to hear the keyword that the Edge Impulse model has been trained to detect. If the machine learning model recognises what the user has said as the correct keyword, then the green LED is activated. 
