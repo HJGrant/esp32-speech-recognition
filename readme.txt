@@ -8,3 +8,5 @@ It is easy to see how the green LED could be replaced with a connection to a tra
 Unfortunately the feature could not be implemented into the automatic gardening system because of time constraints.
 
 Make sure to place the Edge Impulse Library in the Arduino IDE's "Library" folder.
+
+[See this project working on YouTube](https://youtube.com/shorts/EdPyf8pP2So?feature=share) 
